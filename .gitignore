@@ -5,3 +5,4 @@ TypeLock.app/
 .swiftpm/
 DerivedData/
 *.dSYM/
+TypeLock-*.zip
