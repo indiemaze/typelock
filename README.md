@@ -114,7 +114,7 @@ Choose **Launch at Login** from the TypeLock menu.
 
 ## Sponsors
 
-TypeLock is sponsored by [EzTranslate](https://eztranslate.com.tw/) and [Muse Image AI Editor](https://musingimage.com/).
+TypeLock is sponsored by [EzTranslate](https://eztranslate.com.tw/), [Muse Image AI Editor](https://musingimage.com/), and [Epub Translator](https://epubtranslator.net/).
 
 ## License
 
