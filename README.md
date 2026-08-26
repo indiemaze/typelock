@@ -42,7 +42,7 @@ I built TypeLock to make that impossible. WeType stays as my default for everyda
 TypeLock currently builds from source. You need Swift 5.9 or newer.
 
 ```sh
-git clone https://github.com/thefelixl/typelock.git
+git clone https://github.com/indiemaze/typelock.git
 cd typelock
 ./bundle.sh
 cp -R TypeLock.app /Applications/
